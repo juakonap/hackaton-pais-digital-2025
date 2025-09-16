@@ -11,9 +11,9 @@ Este repositorio está organizado por cada una de las sesiones que se llevarán 
 
 En el siguiente listado, se puede tener acceso a la grabación de la sesión respectiva:
 
-* Sesión 1 Obligatoria: martes 09 de septiembre de 17:00 a 18:00 horas de Chile - Creatividad y resolución de problemas - *Próximamente*
-* Sesión 2: Jueves 11 de septiembre de 17:00 a 18:00 horas de Chile - Contexto Gestión Pública - *Próximamente*
-* Sesión 3: Lunes 15 de septiembre de 17:00 a 18:00 horas de Chile - Bases de Computer Vision - *Próximamente*
+* Sesión 1 Obligatoria: martes 09 de septiembre de 17:00 a 18:00 horas de Chile - Creatividad y resolución de problemas - [Link de acceso *temporal*](https://youtu.be/OyvFJoovS9o)
+* Sesión 2: Jueves 11 de septiembre de 17:00 a 18:00 horas de Chile - Contexto Gestión Pública - [Link de acceso *temporal*](https://youtu.be/n-XF1z-oSAg)
+* Sesión 3: Lunes 15 de septiembre de 17:00 a 18:00 horas de Chile - Bases de Computer Vision - [Link de acceso *temporal*](https://youtu.be/26bzvG-o1Dw)
 * Sesión 4: Lunes 22 de septiembre de 17:00 a 18:00 horas de Chile - Configuración de Ambiente de Desarrollo - *Próximamente*
 * Sesión 5: Miércoles 24 de septiembre de 17:00 a 18:00 horas de Chile - GenAI + Computer Vision Vanguardista - *Próximamente*
 * Sesión 6: Viernes 26 de septiembre de 17:00 a 18:00 horas de Chile – Pitch Class y aclaratorias generales - *Próximamente*
