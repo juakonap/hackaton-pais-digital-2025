@@ -10,7 +10,7 @@
 
 ## Mentor de Equipo
 
-- Mentor
+- Jose Wielandt
 
 ## Bases de Datos a utilizar
 
@@ -38,3 +38,8 @@
 - [lucide-react](https://lucide.dev/guide/packages/lucide-react)
 - [framer-motion](https://www.npmjs.com/package/framer-motion)
 - [axios](https://axios-http.com/es/docs/intro)
+- [scikit-learn](https://scikit-learn.org/)
+- [tensorflow](https://www.tensorflow.org/)
+- [pytorch](https://pytorch.org/)
+- [matplotlib](https://matplotlib.org/)
+- [xgboost](https://xgboost.ai/)
