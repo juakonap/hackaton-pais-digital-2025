@@ -34,3 +34,7 @@
 - [tqdm](https://tqdm.github.io/)
 - [Tailwind](https://tailwindcss.com/)
 - [Recharts](https://recharts.org)
+- [react toastify](https://www.npmjs.com/package/react-toastify)
+- [lucide-react](https://lucide.dev/guide/packages/lucide-react)
+- [framer-motion](https://www.npmjs.com/package/framer-motion)
+- [axios](https://axios-http.com/es/docs/intro)
